@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Angular, Typscript**
 
-- 👨‍💻 All of my projects are available at [https://palwashasheikh-mu.vercel.app/)
+- 👨‍💻 All of my projects are available at https://palwashasheikh-mu.vercel.app/
 
-- 📝 I regularly write articles on [https://personal-portfolios-mu.vercel.app/Blog.js](https://personal-portfolios-mu.vercel.app/Blog.js)
+- 📝 I regularly write articles on https://palwashasheikh-mu.vercel.app/Blog.js
 
 - 📫 How to reach me **palwashasheikh229@gmail.com**
 
