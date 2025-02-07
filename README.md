@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/palwashasheikh" target="blank"><img src="https://img.shields.io/twitter/follow/palwashasheikh?logo=twitter&style=for-the-badge" alt="palwashasheikh" /></a> </p>
 
-- 🔭 I’m currently working on [Angular](https://personal-portfolios-mu.vercel.app/Blog.js)
+- 🔭 I’m currently working on [Angular](https://palwashasheikh-mu.vercel.app//Blog.js)
 
 - 🌱 I’m currently learning **Angular, Typscript**
 
