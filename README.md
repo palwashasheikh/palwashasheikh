@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular, Typscript**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolios-mu.vercel.app/](https://personal-portfolios-mu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://palwashasheikh-mu.vercel.app/)
 
 - 📝 I regularly write articles on [https://personal-portfolios-mu.vercel.app/Blog.js](https://personal-portfolios-mu.vercel.app/Blog.js)
 
