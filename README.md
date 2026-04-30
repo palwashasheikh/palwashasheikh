@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm palwasha</h1>
-<h3 align="center">A passionate Full stack developer from pakistan</h3>
+<h3 align="center">A passionate Full stack developer 
+  experience in Angular and 4+ in React and Node.js. I have handson knowledge of Next.JS I have AI/ML integration knowledge as well. I also have knowledge of tailwind.css, typescript and javascript I also have knowldege of unit testing using Jasmine and Karma.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palwashasheikh&label=Profile%20views&color=0e75b6&style=flat" alt="palwashasheikh" /> </p>
 
