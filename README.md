@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm palwasha</h1>
 <h3 align="center">A passionate Full stack developer 
-  experience in Angular and 4+ in React and Node.js. I have handson knowledge of Next.JS I have AI/ML integration knowledge as well. I also have knowledge of tailwind.css, typescript and javascript I also have knowldege of unit testing using Jasmine and Karma.
+  experience in Angular and 4+ in React and Node.js. I have hands-on knowledge of Next.js. I have AI/ML integration knowledge as well. I also know tailwind.css, TypeScript, and JavaScript. I also know unit testing using Jasmine and Karma.
 
 </h3>
 
