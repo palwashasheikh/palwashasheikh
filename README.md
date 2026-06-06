@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Angular, Typscript**
 
-- 👨‍💻 All of my projects are available at https://palwashasheikh-mu.vercel.app/
+- 👨‍💻 All of my projects are available at https://personalportfolio-one-iota.vercel.app/
 
 - 📝 I regularly write articles on https://palwashasheikh-mu.vercel.app/Blog.js
 
